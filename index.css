@@ -10,4 +10,15 @@
 
 ul {
   list-style: none;
+  line-height: 20px;
+}
+
+#avatar {
+  width: 100px;
+  padding: 5px;
+}
+
+.nameListItem {
+  font-weight: bold; 
+  font-size: larger;
 }
